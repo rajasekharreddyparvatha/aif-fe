@@ -1,0 +1,47 @@
+.application-type-label {
+    font-family: 'Lato-Bold';
+    font-size: 16px;
+    color: #313F54;
+    letter-spacing: 0;
+    text-align: left;
+    line-height: 16px;
+    margin-bottom: 20px;
+}
+
+.application-panel {
+    padding-left: 31px;
+    background: #f4f5f7;
+    height: 100vh;
+    overflow-x: auto;
+}
+
+.applications-flex-display {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.application-margin {
+    margin-right: 60px;
+    margin-bottom: 60px;
+}
+
+.unifiedAdminConfigurationsLabel {
+    font-family: 'Lato-Regular';
+    font-size: 20px;
+    color: #313F54;
+    letter-spacing: 0;
+    text-align: left;
+    line-height: 21px;
+    /*position: sticky;*/
+    /*top: 0;*/
+}
+.subHeader {
+    padding-bottom: 32px;
+    padding-top: 31px;
+    display: flex;
+    flex-flow: row;
+}
+
+.searchBox {
+    margin-left: 31px;
+}

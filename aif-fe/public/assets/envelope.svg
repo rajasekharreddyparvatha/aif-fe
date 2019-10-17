@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="114px" viewBox="0 0 146 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>envelope4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.013,36.003 C15.86,37.306 21.427,41.177 30.715,47.613 C40.003,54.049 47.118,59.005 52.061,62.48 C52.604,62.861 53.758,63.689 55.523,64.965 C57.288,66.242 58.755,67.275 59.922,68.062 C61.09,68.849 62.502,69.732 64.159,70.709 C65.816,71.686 67.378,72.42 68.844,72.907 C70.311,73.397 71.669,73.64 72.918,73.64 L73,73.64 L73.082,73.64 C74.331,73.64 75.689,73.397 77.156,72.907 C78.622,72.42 80.185,71.685 81.841,70.709 C83.497,69.731 84.909,68.849 86.077,68.062 C87.245,67.275 88.711,66.242 90.476,64.965 C92.241,63.688 93.396,62.861 93.939,62.48 C98.935,59.004 111.646,50.178 132.068,36.001 C136.033,33.232 139.345,29.891 142.007,25.98 C144.67,22.071 146,17.97 146,13.679 C146,10.094 144.709,7.025 142.129,4.472 C139.549,1.919 136.493,0.643 132.964,0.643 L13.035,0.643 C8.853,0.643 5.635,2.055 3.381,4.879 C1.127,7.704 0,11.235 0,15.471 C0,18.893 1.494,22.601 4.481,26.593 C7.468,30.585 10.646,33.722 14.013,36.003 L14.013,36.003 Z" id="path-1"></path>
+        <filter x="-32.5%" y="-58.2%" width="165.1%" height="230.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.937254902   0 0 0 0 0.533333333   0 0 0 0 0.133333333  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M137.852,44.72 C120.038,56.777 106.512,66.147 97.28,72.828 C94.184,75.109 91.672,76.889 89.743,78.164 C87.815,79.441 85.249,80.744 82.044,82.075 C78.84,83.406 75.853,84.071 73.083,84.071 L73,84.071 L72.918,84.071 C70.148,84.071 67.16,83.406 63.956,82.075 C60.752,80.744 58.185,79.441 56.257,78.164 C54.329,76.889 51.817,75.109 48.721,72.828 C41.388,67.451 27.891,58.081 8.229,44.72 C5.133,42.657 2.39,40.293 0,37.632 L0,102.32 C0,105.906 1.276,108.974 3.829,111.527 C6.382,114.081 9.451,115.357 13.036,115.357 L132.965,115.357 C136.549,115.357 139.618,114.081 142.171,111.527 C144.725,108.973 146,105.906 146,102.32 L146,37.632 C143.664,40.238 140.949,42.602 137.852,44.72 L137.852,44.72 Z" id="path-3"></path>
+        <filter x="-32.5%" y="-54.7%" width="165.1%" height="222.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.937254902   0 0 0 0 0.533333333   0 0 0 0 0.133333333  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="envelope4">
+            <g id="Group" transform="translate(0.000000, -1.000000)">
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#EF8822" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#EF8822" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

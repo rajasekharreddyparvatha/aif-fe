@@ -1,0 +1,29 @@
+.search-text {
+    font-family: Lato-Regular;
+    font-size: 14px;
+    color: #556D8F;
+    letter-spacing: 0;
+    text-align: left;
+    line-height: 16px;
+}
+.searchPanel {
+    border-bottom: 1px solid #313F54;
+    padding-bottom: 2px;
+    padding-top: 5px;
+    display: flex;
+}
+
+.search-input {
+    outline: none;
+    border: none;
+    background: none;
+    margin-left: 8px;
+    width: 296px;
+    height: 16px;
+    font-family: Lato-Regular;
+    font-size: 14px;
+    color: #556D8F;
+    letter-spacing: 0;
+    text-align: left;
+    line-height: 16px;
+}

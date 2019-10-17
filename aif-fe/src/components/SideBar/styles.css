@@ -1,0 +1,97 @@
+.sideInfoWrapper {
+    border-left: 1px solid #C8DDF8;
+    height: 100%;
+    padding: 30px 0 0 30px;
+    height: 100vh;
+}
+
+.counter {
+    display: inline-block;
+    font-size: 11px;
+    width: 21px;
+    height: 21px;
+    line-height: 21px;
+    text-align: center;
+    border-radius: 50%;
+    vertical-align: middle;
+    color: #17ACE9;
+    cursor: pointer;
+    font: 'Lato Bold';
+    margin-right: 12px;
+    border: 2px solid #17ACE9;
+    background: #FFFFFF;
+}
+
+.selectedNode {
+    border: 2px solid #18D9AF;
+    background: #18D9AF;
+    color: #FFFFFF;
+}
+
+.completedNode{
+    background: #18D9AF;
+}
+
+.selectedTextfont{
+    font-family: 'Lato Bold';
+    color: #313F54;
+}
+
+.textFont{
+    font-family: 'Lato Regular';
+    color: #546C90;
+}
+
+.text {
+    font-size: 14px;
+    letter-spacing: 0;
+    text-align: left;
+    line-height: 21px;
+}
+
+.subHeaderPos{
+    padding-left: 45px;
+    margin-top: 4px;
+}
+
+.tickMarkCounter{
+    left: 8px;
+    top: 4px;
+    position: relative;
+    width: 3px;
+    height: 8px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);;
+}
+
+.sideTexts {
+    cursor: pointer;
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.appsPadding {
+    padding-top: 10px;
+}
+
+
+.featuresPadding {
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+.tickMarkProduct{
+    position: absolute;
+    width: 3px;
+    height: 8px;
+    margin-top: 6px;
+    margin-left: 96px;
+    border: solid #18D9AF;
+    border-width: 0 2px 2px 0;
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}

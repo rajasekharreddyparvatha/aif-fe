@@ -1,0 +1,48 @@
+.main-wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+}
+
+.web-loader {
+  width: 75%;
+  height: 100%;
+  display: flex;
+}
+
+.side--nav-bar {
+  width: 160px;
+  margin-top: 30px;
+}
+
+.web-btn {
+  width: 120px;
+  margin: 20px 20px 20px 20px;
+  border: 1px solid #FAFAFA;
+  height: 60px;
+  background: #FF8822;
+  text-align: center;
+  padding-top: 20px;
+  cursor: pointer;
+  color: #F2F2F2;
+  font-size: 16px;
+}
+
+.url-loader {
+  position: absolute;
+  height: 100%;
+  border: 1px solid #FF8822;
+  width: 75%;
+}
+
+.side-wrapper {
+  width: 25%;
+  margin: 0 auto;
+}
+
+.flyover {
+  font-size: 25px;
+  cursor: pointer;
+}
